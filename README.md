@@ -7,10 +7,6 @@
 ### Prerequisites
 
 - Ensure you have a web browser that supports modern web technologies.
-
-![N-Queen-visualisation](visualisation.gif)
-
-**<p align='center'>You can find the website live <a href="https://nqueen.netlify.app/">here</a></p>**
 ## Usage
 
 1. Input the desired number of queens into the input box.
@@ -24,3 +20,9 @@
 3. **Play Button**: Initiates the visualization process.
 4. **Queen Arrangement Display**: Shows the arrangement of queens on the board.
 5. **N-Queen Board**: The main board where queens are visualized.
+
+
+![N-Queen-visualisation](visualisation.gif)
+
+**<p align='center'>You can find the website live <a href="https://nqueen.netlify.app/">here</a></p>**
+
